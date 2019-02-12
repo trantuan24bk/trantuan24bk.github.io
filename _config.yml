@@ -84,3 +84,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: benbalter/retlab
+
+
